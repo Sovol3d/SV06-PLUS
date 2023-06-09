@@ -6,7 +6,7 @@ Touch screen, PEI Plate, 25 point Auto Leveling, 32bit Silent Mainboard, Dual Z 
 # Related tutorials 
 
 - User Manual. [Click here](https://drive.google.com/file/d/1bJmc2MeOSmn5svG3CuQQvvp3vNMjcOrR/view)
-
+- Sovol Tech Support Youtube Channel: https://www.youtube.com/@sovoltechsupport/videos 
 # Learn more
 
 on Sovol Official Website: https://sovol3d.com/products/sovol-sv06-plus
