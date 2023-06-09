@@ -1,8 +1,6 @@
 # Introduction
 
-Sovol SV06 PLUS is a 300*300*340 mm large size printer with compact functions. It adopts the movement structure of polished rod and bearings, thus, no wheels on the printer anymore! 
-It’s with a High Flow Hotend and a Planetary Gear Direct Drive Extruder, which supports printing at a high speed and printing with soft TPU and high-temperature filament, such as PETG, ABS, Carbon Fiber, etc. 
-Touch screen, PEI Plate, 25 point Auto Leveling, 32bit Silent Mainboard, Dual Z axis, and Belt Tensioner are all pre-installed on the SV06 PLUS. Welcome to check more on sovol3d.com
+Sovol SV06 Plus 3d printer is the larger version of Sovol SV06 but with some new upgrades. Its large 300x300x340mm build volume meets all your 3D printing needs, also it comes with some new upgrade. It comes with a new sovol self-developed high flow all metal hotend, the bigger melt zone and traffic make it capable to print at 150mm/s as standard printing speed. Added touch screen, it looks more fashion and technical. Besides, it  has the 450 watt PSU, filament sensor, spinnable spool holder. Welcome to check more on sovol3d.com.
 # Related tutorials 
 
 - User Manual. [Click here](https://drive.google.com/file/d/1bJmc2MeOSmn5svG3CuQQvvp3vNMjcOrR/view)
